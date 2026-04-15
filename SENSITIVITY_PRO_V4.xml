@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NexusConfig version="20.0">
+    <Sensitivity>
+        <General value="100.0" />
+        <RedDot value="99.5" />
+        <Scope2x value="94.0" />
+        <Scope4x value="92.5" />
+    </Sensitivity>
+    <Graphics>
+        <Shadows value="false" />
+        <HighFPS value="true" />
+        <ZeroLagBuffer value="active" />
+    </Graphics>
+</NexusConfig>
