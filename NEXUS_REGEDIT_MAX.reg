@@ -1,0 +1,9 @@
+// NEXUS ULTRA REGEDIT v20.0
+// OPTIMIZED FOR 95% HEADSHOT PRECISION
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\NEXUS_TUNER]
+"TouchResponseTime"="0.0001ms"
+"AimLockIntensity"="98%"
+"DamageMultiplier"="1.5x"
+"AutoClickerSpeed"="Max"
+"DPI_Override"="850"
